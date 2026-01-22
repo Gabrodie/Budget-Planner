@@ -1,0 +1,261 @@
+{
+  "income": 100.0,
+  "balance": 1000.0,
+  "savings_goal": 0.0,
+  "expenses": {
+    "1": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "2": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "3": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "4": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "5": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "6": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [
+        1000.0
+      ],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "7": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "8": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "9": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "10": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "11": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "12": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "13": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "14": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "15": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "16": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "17": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "18": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "19": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "20": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "21": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "22": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "23": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "24": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "25": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "26": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "27": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    },
+    "28": {
+      "Food": [],
+      "Rent": [],
+      "Utilities": [],
+      "Transportation": [],
+      "Shopping": [],
+      "Life and Entertainment": [],
+      "Other": []
+    }
+  }
+}
